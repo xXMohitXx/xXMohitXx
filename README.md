@@ -1,6 +1,7 @@
 [![MasterHead](https://i0.wp.com/aditya-bhattacharya.net/wp-content/uploads/2021/09/D3S_day7.gif?fit=767%2C356&ssl=1)]()
 <h1 align="center">Hi 👋, I'm Mohit Manglani</h1>
-<h3 align="center">I'm a Computer Science major with a strong focus on machine learning, AI, web development, and software engineering. I’m passionate about building intelligent, scalable web solutions and deploying AI-driven tools to solve real-world problems. Always eager to innovate, I thrive on challenges that push the boundaries of technology. Let’s connect and explore opportunities to shape the future of tech together.</h3>
+<h3 align="center" text-align= "justify"
+  text-justify= "inter-word">I'm a Computer Science major with a strong focus on machine learning, AI, web development, and software engineering. I’m passionate about building intelligent, scalable web solutions and deploying AI-driven tools to solve real-world problems. Always eager to innovate, I thrive on challenges that push the boundaries of technology. Let’s connect and explore opportunities to shape the future of tech together.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
