@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxmohitxx" alt="xxmohitxx" /></a> </p>
 
-- 🔭 I’m currently working on [Server Based OCR System](https://github.com/xXMohitXx/Server_based_ocr_system)
+- 🔭 I’m currently working on [DecentraVault](https://github.com/xXMohitXx/DecentraVault)
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning along with some core business fundamentals**
 
